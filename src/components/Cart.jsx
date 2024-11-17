@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom"; 
 import { getProducts, removeFromCart } from "../utils";
 import CartSingleProduct from "./CartSingleProduct";
-import groupImage from "../assets/group.png";
+import groupImage from "../assets/Group.png";
 
 const Cart = () => {
   const [cartProduct, setCartProduct] = useState([]);
