@@ -30,7 +30,7 @@ GadgetHeaven is an e-commerce platform dedicated to gadget enthusiasts. This pla
 
 
 ## Live Demo
-
+https://gadget-heaven-omega.vercel.app/
 
 
 ## Figma Design & Requirements Document
