@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "category": "All Products"
+  },
+  {
+    "id": 2,
+    "category": "Laptop"
+  },
+  {
+    "id": 3,
+    "category": "Mobile"
+  },
+  {
+    "id": 4,
+    "category": "Smart Watches"
+  },
+  {
+    "id": 5,
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "category": "Watches"
+  },
+  {
+    "id": 7,
+    "category": "Sunglasses"
+  }
+]
+
